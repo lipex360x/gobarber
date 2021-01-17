@@ -1,0 +1,13 @@
+node_modules
+dist
+yarn-error.log
+build
+temp
+tmp/*
+
+.env
+
+src/shared/container/providers/StorageProviders/tmp
+!src/shared/container/providers/StorageProviders/tmp/.gitkeep
+!src/shared/container/providers/StorageProviders/tmp/uploads/.gitkeep
+
